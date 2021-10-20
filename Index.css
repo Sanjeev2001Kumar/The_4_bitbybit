@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.main-app{
+    
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: rgb(220, 255, 24);
+    height: 200px;
+    width:100%;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+    width: auto;
+}
+.main{
+    background-color:mediumpurple;
+    height: 500px;
+    width: 100%;
+
+}
+.departments{
+    width:100%;
+    height: 220px;
+}
+.departments-link{
+    width:100%;
+    height: 20px;
+}
+.dept1{
+    margin-top: 15px;
+    height: 200px;
+    width:33%;
+    border: sandybrown solid;
+    float: left;
+    
+}
+.dept2{
+    height: 200px;
+    width:33%;
+    border: sandybrown solid;
+    float: left;
+    margin-top: 15px;
+    
+}
+
+.dept3{
+    height: 200px;
+    width:33%;
+    border: sandybrown solid;
+    float: left;
+    margin-top: 15px;
+    
+   
+}
+   
+.dept1-link{
+    margin-top: 15px;
+    height: 20px;
+    width:20%;
+    border: sandybrown solid;
+    border-radius: 20px;
+    float: left;
+    margin-left: 7%;
+    background-color: tomato;
+}
+.dept2-link{
+    height: 20px;
+    width:20%;
+    border: sandybrown solid;
+    float: left;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-left: 15%;
+    background-color: tomato;
+}
+
+.dept3-link{
+    height: 20px;
+    width:20%;
+    border: sandybrown solid;
+    float: left;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-left: 10%;
+    background-color: tomato;
+}
+a{
+    color: palegreen;
+}
+a:hover{
+    background-color: black;
+}
+.dept1-link:hover{
+    
+    background-color: black;
+}
+.dept2-link:hover{
+    
+    background-color: black;
+}
+.dept3-link:hover{
+    
+    background-color: black;
+}
